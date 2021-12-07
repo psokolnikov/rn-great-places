@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn_great_places",
-    "slug": "rn_great_places",
+    "name": "rn-great-places",
+    "slug": "rn-great-places",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
