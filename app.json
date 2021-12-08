@@ -23,10 +23,14 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.sokolnikov90.rngreatplaces"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "config" : {
+      "googleMapsApiKey": "AIzaSyD3jHwxan5GDCUYrCSfYoIMBweq-fU4SVc"
     }
   }
 }
